@@ -1,5 +1,17 @@
 #See notes for a break down and an example
 
+# 1st iteration
+# x = 0
+# y = 1..4
+
+# 2nd iteration
+# x = 1
+# y = (1+1)= 2..4
+
+# 3rd iteration
+# x = 2
+# y = 3..4
+
 # Sort the array from lowest to highest
 def sort(arr)
   # arr.sort
